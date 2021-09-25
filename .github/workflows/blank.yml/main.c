@@ -8,6 +8,5 @@ int main()
     printf("Your name is %s.", name);
     
     return 0;
-    
-    
+
 }
